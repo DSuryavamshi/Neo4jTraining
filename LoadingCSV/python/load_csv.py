@@ -1,7 +1,9 @@
 import sys
 import os
 
-sys.path.append(os.getcwd())
+PATH = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
+sys.path.append(PATH)
+
 from GettingStarted.python.Neo4jConnection import Neo4jConnection
 
 
