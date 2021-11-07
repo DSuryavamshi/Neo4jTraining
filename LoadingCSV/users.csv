@@ -1,23 +1,23 @@
-﻿Name,Seen,Rated,Liked,Fav_genre,Preferred_language
-usha,Humraaz,8.5,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-shivajirao,Humraaz,4.5,FALSE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-dhanush,Endgame,9.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu"
-sagar,Shantinivasa,8.5,TRUE,"Action, Romance, Comedy, Drama, Thriller","Hindi, Kannada, English, Telugu, Tamil, Malayalam"
-dhanush,Shantinivasa,7.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu"
-shivajirao,Garudarekhe,8.5,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-shivajirao,Eradu Rekhegalu,10,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-usha,Eradu Rekhegalu,10,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-shivajirao,A Wednesday,10,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-usha,A Wednesday,10,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-dhanush,A Wednesday,9,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu"
-sagar,A Wednesday,8,TRUE,"Action, Romance, Comedy, Drama, Thriller","Hindi, Kannada, English, Telugu, Tamil, Malayalam"
-shivajirao,Special 26,9,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-shivajirao,Satte pe Satta,8.5,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-shivajirao,Bhagyada Lakshmi Baramma,8.5,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-dhanush,Special 26,8,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu"
-sagar,Special 26,8,TRUE,"Action, Romance, Comedy, Drama, Thriller","Hindi, Kannada, English, Telugu, Tamil, Malayalam"
-dhanush,Bhagyada Lakshmi Baramma,7.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu"
-sagar,Bhagyada Lakshmi Baramma,8,TRUE,"Action, Romance, Comedy, Drama, Thriller","Hindi, Kannada, English, Telugu, Tamil, Malayalam"
-usha,Bhagyada Lakshmi Baramma,6,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada"
-dhanush,Infinity Wars,8.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu"
-dhanush,Eternals,8.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu"
+﻿uid,Name,Seen,mid,Rated,Liked,Fav_genre,Preferred_language,,,,
+0001,Usha,Humraaz,0003,8.5,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0002,Shivaji Rao,Humraaz,0003,4.5,FALSE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0003,Dhanush,Endgame,0001,9.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu",,,,
+0004,Sagar,Shantinivasa,0002,8.5,TRUE,"Action, Romance, Comedy, Drama, Thriller","Hindi, Kannada, English, Telugu, Tamil, Malayalam",,,,
+0003,Dhanush,Shantinivasa,0002,7.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu",,,,
+0002,Shivaji Rao,Garudarekhe,0004,8.5,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0002,Shivaji Rao,Eradu Rekhegalu,0005,10,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0001,Usha,Eradu Rekhegalu,0005,10,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0002,Shivaji Rao,A Wednesday,0006,10,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0001,Usha,A Wednesday,0006,10,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0003,Dhanush,A Wednesday,0006,9,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu",,,,
+0004,Sagar,A Wednesday,0006,8,TRUE,"Action, Romance, Comedy, Drama, Thriller","Hindi, Kannada, English, Telugu, Tamil, Malayalam",,,,
+0002,Shivaji Rao,Special 26,0007,9,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0002,Shivaji Rao,Satte pe Satta,0008,8.5,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0002,Shivaji Rao,Bhagyada Lakshmi Baramma,0009,8.5,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0003,Dhanush,Special 26,0007,8,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu",,,,
+0004,Sagar,Special 26,0007,8,TRUE,"Action, Romance, Comedy, Drama, Thriller","Hindi, Kannada, English, Telugu, Tamil, Malayalam",,,,
+0003,Dhanush,Bhagyada Lakshmi Baramma,0009,7.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu",,,,
+0004,Sagar,Bhagyada Lakshmi Baramma,0009,8,TRUE,"Action, Romance, Comedy, Drama, Thriller","Hindi, Kannada, English, Telugu, Tamil, Malayalam",,,,
+0001,Usha,Bhagyada Lakshmi Baramma,0009,6,TRUE,"Comedy, Drama, Suspense, Thriller","Hindi, Kannada",,,,
+0003,Dhanush,Infinity Wars,0010,8.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu",,,,
+0003,Dhanush,Eternals,0011,8.5,TRUE,"Romance, Comedy, Drama, Thriller, Horror, Action, Scify, Fantasy, Musical, Crime","Hindi, Kannada, English, Telugu",,,,
