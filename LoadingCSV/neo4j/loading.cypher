@@ -11,3 +11,8 @@ SET m.rating = row.rating
 SET m.released = row.released 
 SET m.genre = row.genre 
 SET m.language = row.language;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///follows.csv' as row
+MATCH (u:User {{uid:row.uid}}), (f_u:User {{uid:row.f_uid}})
+MERGE (u)-[:follows {{since:row.since}}]->(f_u)
